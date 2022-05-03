@@ -9,10 +9,11 @@
 <h2> Here are some of my stats: </h2>
 
 <a href="https://github.com/murilo-weyne/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-weyne&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-weyne&show_icons=true&theme=tokyonight"/>
 </a>
+
 <a href="https://github.com/murilo-weyne/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-weyne&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-weyne&theme=tokyonight&layout=compact"/>
 </a>
 
 
