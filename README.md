@@ -9,7 +9,7 @@
 <h2> Here are some of my stats: </h2>
 
 <a href="https://github.com/murilo-weyne/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-weyne&show_icons=true&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-weyne&show_icons=true&theme=tokyonight" width=415px/>
 </a>
 
 <a href="https://github.com/murilo-weyne/github-readme-stats">
