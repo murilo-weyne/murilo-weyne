@@ -8,12 +8,13 @@
 
 <h2> Here are some of my stats: </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-weyne&theme=tokyonight&hide=shell)](https://github.com/murilo-weyne/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo-weyne&show_icons=true&theme=tokyonight)](https://github.com/murilo-weyne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-weyne&theme=tokyonight&layout=compact)](https://github.com/murilo-weyne/github-readme-stats)
 
 <h2> Contact Me! </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-muriloweyne1@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:muriloweyne1@gmail.com)](muriloweyne1@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-muriloprd-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/muriloprd/)](https://www.instagram.com/muriloprd/)
+
 
 Last edited on: 05/03/2022
