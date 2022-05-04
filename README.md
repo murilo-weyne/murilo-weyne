@@ -2,7 +2,7 @@
 
 ℹ️ I'm Murilo, a computer engineering student from Brazil!
 
-💡 Currently learning Python and looking forward to learning TypeScript, React and Node.js!
+ 💡 Currently learning Python and looking forward to learning TypeScript, React and Node.js!
 
 ❤️ I love developing automation software to make life easier.
 
